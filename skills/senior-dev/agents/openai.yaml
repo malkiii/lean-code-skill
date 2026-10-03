@@ -1,0 +1,5 @@
+interface:
+  display_name: "senior-dev"
+  short_description: "Ask first, push back, stay in scope, keep diffs small"
+policy:
+  allow_implicit_invocation: true
