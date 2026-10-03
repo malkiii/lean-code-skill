@@ -1,4 +1,4 @@
-# Senior Dev Skill
+# Lean Code Skill
 
 A skill for coding agents like Claude Code and Codex. It pushes the agent to work like a senior engineer instead of a fast, slightly sloppy junior. Every rule in it comes from a specific complaint in [Andrej Karpathy's post](https://x.com/karpathy/status/2015883857489522876) about coding with LLM agents.
 
@@ -7,7 +7,7 @@ A skill for coding agents like Claude Code and Codex. It pushes the agent to wor
 Install it with the [skills](https://skills.sh) CLI:
 
 ```
-npx skills add malkiii/senior-dev-skill
+npx skills add malkiii/lean-code-skill
 ```
 
 Update or remove it later with `npx skills update` and `npx skills remove`.

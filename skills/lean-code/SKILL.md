@@ -1,5 +1,5 @@
 ---
-name: senior-dev
+name: lean-code
 description: Use this skill whenever writing, editing, refactoring, fixing, debugging, or reviewing code, even for small changes and even if the user doesn't mention it. Makes the agent ask before assuming, push back on weak approaches, stay in scope, and keep diffs small and simple.
 ---
 
