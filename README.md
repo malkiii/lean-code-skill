@@ -38,11 +38,6 @@ Karpathy points out that the models still sometimes change or remove comments an
 
 The **Stay in scope** rules cover this. The agent changes only what the task requires. It never modifies or deletes comments or code unrelated to the task, including code it doesn't fully understand. The one exception is a trivial fix, such as a typo or an unused import, on a line it is already editing. Every other issue it notices is left alone.
 
-## Credits
-
-- [Andrej Karpathy](https://x.com/karpathy), for the [post](https://x.com/karpathy/status/2015883857489522876) this skill is built from.
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills), which turned the same post into agent guidelines. This repo follows the same idea, ships as a skill, and leaves out that project's goal-driven execution principle.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
