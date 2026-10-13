@@ -1,6 +1,6 @@
 # Lean Code Skill
 
-A skill for coding agents. It pushes the agent toward the simplest solution that works: the smallest diff, no speculative abstractions, no dead code. Every rule in it comes from a specific complaint in [Andrej Karpathy's post](https://x.com/karpathy/status/2015883857489522876) about coding with LLM agents.
+A very small skill for coding agents. It pushes the agent toward the simplest solution that works: the smallest diff, no speculative abstractions, no dead code. Every rule in it comes from a specific complaint in [Andrej Karpathy's post](https://x.com/karpathy/status/2015883857489522876) about coding with LLM agents.
 
 ## Installation
 
